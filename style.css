@@ -1,0 +1,51 @@
+body{
+    background-color: #262626;
+}
+#nav{
+    display: flex;
+    background-color: red;
+}
+#inp{
+    position: absolute;
+width: 597px;
+height: 53px;
+left: 319px;
+top: 33px;
+
+background: #3b3a3a;
+border-radius: 15px;
+}
+
+#forent{
+position: absolute;
+width: 159px;
+height: 72px;
+left: 59px;
+top: 27px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 48px;
+line-height: 72px;
+
+color: #FFFFFF;
+
+
+}
+
+#search{
+position: absolute;
+width: 75px;
+height: 28px;
+left: 347px;
+top: 45px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 28px;
+
+color: rgba(255, 255, 255, 0.2); 
+}
